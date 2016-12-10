@@ -3,7 +3,7 @@
 Codingelab validation is an API libary that removes the complexity of data entry validation for java applications. By using this API library programmers now can determine whether a data entry is valid or not. 
 
 The API library has many functionalities/concepts that programmers may want to be aware of which are:
- - Sample configuration (how to condifure the API library).
+ - [Sample configuration, how to condifure the API library](https://github.com/codingelab/codingelab-validation/wiki/1.-API-library-configuration].
  - API library components.
  - Decorate components with each other.
  - Lengths (the equal, minimum, and maximum length of an input).
