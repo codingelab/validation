@@ -16,7 +16,7 @@ The API library has many functionalities/concepts that programmers may want to b
     - Arabic.
     - English.
     - German.
-- How to override existing languages.
-- How to add a new languages to the API.
-- How to extend the API library (add a new type of validation).
+ - How to override existing languages.
+ - How to add a new languages to the API.
+ - How to extend the API library (add a new type of validation).
 
