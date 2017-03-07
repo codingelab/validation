@@ -16,7 +16,12 @@ The API library has many functionalities/concepts that programmers may want to b
     - Arabic.
     - English.
     - German.
+    - Greek.
  - How to override existing languages.
  - How to add a new languages to the API.
  - How to extend the API library (add a new type of validation).
+ 
+ ### For people who are willing to watch video to learn the API library
+- [Arabic Tutorial (videos)](https://www.youtube.com/watch?v=cWVJsD0xd5g&list=PLvZcoGWLT5r3I6NMmm8GQV1vk-oxPPEQA)
+- English Tutorial (videos) coming soon ...
 
